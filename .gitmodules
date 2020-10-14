@@ -1,3 +1,7 @@
 [submodule "sub"]
 	path = sub
 	url = https://github.com/jello0530/sub.git
+[submodule "az"]
+	path = az
+	url = https://github.com/jello0530/sub.git
+	branch = 1.0
