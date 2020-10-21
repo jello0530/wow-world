@@ -1,4 +1,4 @@
 [submodule "sub"]
 	path = sub
-	url = https://github.com/jello0530/sub.git
+	url = git@github.com:jello0530/sub.git
 	branch = 1.0
