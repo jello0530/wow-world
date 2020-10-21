@@ -2,3 +2,4 @@
 	path = sub
 	url = git@github.com:jello0530/sub.git
 	branch = 1.0
+	ignore = all
